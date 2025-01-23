@@ -9,6 +9,8 @@ For business inquiries, technical support, or collaboration, reach out to us:
 
 ### **Telegram:** [Cash Blaze](https://t.me/cashblaze127)
 
+![Screenshot_21](https://github.com/user-attachments/assets/16b8fe44-b0ee-47d8-b528-8c72a1401310)
+
 ---
 
 ## 📖 **What is HiLo?**
