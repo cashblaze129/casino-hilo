@@ -8,7 +8,7 @@ Welcome to the **HiLo Casino Game**! This project is a thrilling high-stakes gue
 
 For inquiries, collaborations, or support, feel free to reach out:
 
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram&style=for-the-badge)](https://t.me/cashblaze127)
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram&style=for-the-badge)](https://t.me/cashblaze129)
 
 ![Screenshot_21](https://github.com/user-attachments/assets/16b8fe44-b0ee-47d8-b528-8c72a1401310)
 
